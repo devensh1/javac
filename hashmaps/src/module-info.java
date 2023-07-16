@@ -1,0 +1,2 @@
+module hashmaps {
+}
